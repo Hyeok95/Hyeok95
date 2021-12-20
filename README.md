@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ChangHyeok&fontSize=70&animation=twinkling)
 
-<h4>Data Engineer</h4>
+<h3>🥰 ChangHyeok Ahn<h3>
+Hi there, this is ChangHyeok Ahn!
+I'm enjoying learning about AI and data engineering.
+My dream is Data Engineer!
+
+<br>
 
 <h3>⚡ Skill </h3>
 
@@ -22,8 +27,18 @@
 
 <br>
 
+<h3>😃 Contact me<h3>
+<a> <a href="mailto:quf8093@gmail.com">
+<img
+src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> <a href="https://instagram.com/fivepxint">
+<img
+src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   
-
+<br>
 
 
 
