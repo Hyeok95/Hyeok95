@@ -2,9 +2,9 @@
 
 <h3>🥰 ChangHyeok Ahn<h3>
 
-Hi there, this is ChangHyeok Ahn!
-I'm enjoying learning about AI and data engineering.
-My dream is Data Engineer!
+#### Hi there, this is ChangHyeok Ahn!
+#### I'm enjoying learning about AI and data engineering.
+#### My dream is Data Engineer!
 
 <br>
 
