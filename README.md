@@ -28,11 +28,11 @@ My dream is Data Engineer!
 <br>
 
 <h3>😃 Contact me<h3>
-<a> <a href="mailto:quf8093@gmail.com">
+<a> <a href="mailto:chahn9503@nate.com">
 <img
 src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://instagram.com/fivepxint">
+</a> <a href="https://www.instagram.com/c_hyeok2/">
 <img
 src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
