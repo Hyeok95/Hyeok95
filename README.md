@@ -12,8 +12,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Appache Spark-E25A1C?style=flat-square&logo=Spark&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SKlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Appache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
