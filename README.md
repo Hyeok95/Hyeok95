@@ -25,9 +25,9 @@
 <br>
 
 <p align=center>
-  ![Hyeok95's github stats](https://github-readme-stats.vercel.app/api?username=Hyeok95&show_icons=true)
-[![Hyeok95's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeok95&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hyeok95)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyeok95&show_icons=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeok95&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" height="150">
+</p>
 <!--
 **Hyeok95/Hyeok95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
