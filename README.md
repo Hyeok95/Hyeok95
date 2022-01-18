@@ -7,9 +7,9 @@
 
 <br>
 
-<h3>⚡ Skill </h3>
+<!-- <h3>⚡ Skill </h3> -->
 
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Appache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/></a>&nbsp
@@ -20,14 +20,13 @@
   <img src="https://img.shields.io/badge/Jupyter-E6B91E?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-DB3552?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-</p>
+</p> -->
 
 <br>
 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeok95&layout=compact&hide=scss,less&langs_count=20" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyeok95&bg_color=15,e96443,904e95&title_color=fff&text_color=fff" height="150">
-</p>
+  ![Hyeok95's github stats](https://github-readme-stats.vercel.app/api?username=Hyeok95&show_icons=true)
+[![Hyeok95's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeok95&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hyeok95)
 
 <!--
 **Hyeok95/Hyeok95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
