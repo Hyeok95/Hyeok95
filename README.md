@@ -3,7 +3,7 @@
 <h3>🥰 ChangHyeok Ahn<h3>
 
 #### Hi there, I'm ChangHyeok Ahn!
-#### I'm enjoying learning about AI and data engineering.
+#### I'm enjoying learning about AI and data Analyst.
 
 <br>
 
@@ -30,6 +30,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeok95&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" height="150">
 </p>
 
+<br>
+  <p align=center>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chahn9503">
+</p>
+  
 <br>
 
 <h3>😃 Contact me<h3>
