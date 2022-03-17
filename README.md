@@ -3,7 +3,7 @@
 <h3>🥰 ChangHyeok Ahn<h3>
 
 #### Hi there, I'm ChangHyeok Ahn!
-#### I'm enjoying learning about AI and data Analyst.
+#### I'm enjoying learning about AI and data Analysis.
 
 <br>
 
