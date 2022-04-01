@@ -15,12 +15,13 @@
   <img src="https://img.shields.io/badge/Appache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Keras-EE4C2C?style=flat-square&logo=Keraas&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keraas&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jupyter-E6B91E?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-DB3552?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+
 </p>
 
 <br>
