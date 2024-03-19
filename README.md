@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Postgre-333664?style=flat-square&logo=Postgre&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=flat-square&logo=Springboot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Fastapi-000000?style=flat-square&logo=fastapi&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jupyter-E6B91E?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
