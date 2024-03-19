@@ -11,14 +11,14 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Postgre-333664?style=flat-square&logo=Postgre&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Ppostgresql-316192?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=flat-square&logo=Springboot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Fastapi-000000?style=flat-square&logo=fastapi&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jupyter-E6B91E?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp 
